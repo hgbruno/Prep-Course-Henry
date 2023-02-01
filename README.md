@@ -1,2 +1,1 @@
-# Prep-Course-Henry
-Es un repositorio del modulo 2 del preparatorio
+Este es un proyecto de prueba sobre como realizar un repositorio y clonarlo desde la web
